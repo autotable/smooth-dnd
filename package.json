@@ -1,5 +1,5 @@
 {
-  "name": "trello-smooth-dnd",
+  "name": "@autotable/trello-smooth-dnd",
   "version": "1.0.0",
   "description": "Drag and Drop library to support react-trello project",
   "main": "./dist/index.js",
@@ -16,13 +16,13 @@
     "dnd"
   ],
   "author": {
-    "name": "RC",
-    "email": "rc.chandru@gmail.com"
+    "name": "Autotable Team <support@autotable.vn>",
+    "email": "support@autotable.vn"
   },
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/rcdexta/smooth-dnd"
+    "url": "https://github.com/autotable/smooth-dnd"
   },
   "devDependencies": {
     "babel-core": "^6.26.0",
